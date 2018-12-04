@@ -7,7 +7,7 @@ public class Main {
 
     private final static int REFRESH = 5 * 1000; // in ms
 
-    public static void main(String... args) throws IOException {
+    public static void main(String... args) {
 
         TimerTask timerTask = new TimerTask() {
 
